@@ -6,5 +6,5 @@ https://html-preview.github.io/?url=https://github.com/sylvaincom/html_preview/b
 - [basic_tests/my_notebook.html](basic_tests/my_notebook.html) can be previewed online at the following link:
 https://html-preview.github.io/?url=https://github.com/sylvaincom/html_preview/blob/main/basic_tests/my_notebook.html
 
-For some reason, an export from skore's dashboard does not work:
+For some reason, an export from [`skore`](https://github.com/probabl-ai/skore)'s dashboard does not work:
 - [probabl/skore/basic_usage.html](probabl/skore/basic_usage.html) can not be previwed at https://html-preview.github.io/?url=https://github.com/sylvaincom/html_preview/blob/main/probabl/skore/basic_usage.html
