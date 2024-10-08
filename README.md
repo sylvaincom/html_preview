@@ -7,4 +7,4 @@ https://html-preview.github.io/?url=https://github.com/sylvaincom/html_preview/b
 https://html-preview.github.io/?url=https://github.com/sylvaincom/html_preview/blob/main/basic_tests/my_notebook.html
 
 For some reason, an export from skore's dashboard does not work:
-- [skore/basic_usage.html](skore/basic_usage.html) can not be previwed at https://html-preview.github.io/?url=https://github.com/sylvaincom/html_preview/blob/main/probabl/skore/basic_usage.html
+- [probabl/skore/basic_usage.html](probabl/skore/basic_usage.html) can not be previwed at https://html-preview.github.io/?url=https://github.com/sylvaincom/html_preview/blob/main/probabl/skore/basic_usage.html
